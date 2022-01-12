@@ -1,6 +1,8 @@
 # myfirstrepo
 Yeah i am new here
 
-hehehehehehheheheh
+hehehehehehehehehehe
 
-hahahahhahahahhahah I don't know what this is. modified by test1
+hahahahahahhaha test2 changed
+
+>>>>>>> test2
